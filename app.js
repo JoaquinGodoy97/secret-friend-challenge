@@ -27,7 +27,7 @@ function agregarAmigo() {
         listaAmigos.innerHTML = amigosAgregados;
 
     } else {
-        alert("amigo not found.");
+        alert("Ingresar un nombre válido.");
     }
 }
 
